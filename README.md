@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giogify
-- 👀 I’m interested in C++ and DirectX API programming.
-- 🌱 I’m currently learning the Direct3D 12 API.
+- 👀 I’m interested in C++, the DirectX API, and video game programming.
+- 🌱 I’m currently learning the Direct3D 12 API and developing a 3D graphics engine.
 - 📫 How to reach me: message me on here (if that's possible).
 
 <!---
