@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Giogify
-- 👀 I’m interested in C++, the DirectX API, and video game programming.
-- 🌱 I’m currently learning the Direct3D 12 API and developing a 3D graphics engine.
-- 📫 How to reach me: message me on here (if that's possible).
+- 👀 I’m interested in nothing to concern yourself with.
+- 🌱 I’m currently losing my mind.
+- 📫 How to reach me: don't.
+
+I like software development. I want to make a Terraria-style game, a RimWorld-style game, and a Lethal Company-style game, and develop my own programming language and OS like some Terry Davis stuff.
+Please donate to me so I can spend 24 hours a day doing this work: https://ko-fi.com/giogification
 
 <!---
 Giogify/Giogify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
