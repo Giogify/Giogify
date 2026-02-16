@@ -3,8 +3,7 @@
 - 🌱 I’m currently losing my mind.
 - 📫 How to reach me: don't.
 
-I like software development. I want to make a Terraria-style game, a RimWorld-style game, and a Lethal Company-style game, and develop my own programming language and OS like some Terry Davis stuff.
-Please donate to me so I can spend 24 hours a day doing this passionate work: https://ko-fi.com/giogification
+I like software development. I want to make a games, and develop my own programming language and OS and other shit people shouldn't do by themselves.
 
 <!---
 Giogify/Giogify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
