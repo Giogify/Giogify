@@ -3,7 +3,7 @@
 - 🌱 I’m currently losing my mind.
 - 📫 How to reach me: don't.
 
-I like software development. I want to make a games, and develop my own programming language and OS and other shit people shouldn't do by themselves.
+I like software development.
 
 <!---
 Giogify/Giogify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
